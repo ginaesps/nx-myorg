@@ -16,3 +16,5 @@ export const exampleProducts: Product[] = [
     price: 200,
   },
 ];
+
+export const products = () => "products";
